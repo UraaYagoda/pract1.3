@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+
+    background-color: #ffffff;
+
+    margin: 0;
+
+    padding: 0;
+}
+
+.wrapper {
+    width: 80%;
+    margin: auto;
+}
+
+.header, .main, .footer {
+    padding: 20px;
+}
+
+.logo p {
+    color: #000000;
+    font-size: 24px;
+}
+
+.logo b {
+    color: #9f680a;
+    font-size: 30px;
+}
+
+.logo i {
+    color: #000000;
+    font-size: 16px;
+}
+
+.contacts {
+    float: right;
+}
+
+.contacts p {
+    color: #a37676;
+    font-size: 18px;
+}
+
+.contacts a {
+    color: #03dded;
+    text-decoration: none;
+}
+
+.main-text h1 {
+    color: #04962d;
+    font-size: 28px;
+}
+
+.main-text p {
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.menu p {
+    color: #03dded;
+    font-size: 22px;
+}
+
+.menu ul {
+    color: #100606;
+    list-style: disc;
+    padding: 10;
+}
+
+.menu ul li a {
+    color: #000000;
+    text-decoration: none;
+    display: block;
+    padding: 5px 0;
+}
+
+.footer {
+    background-color: #100606;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
